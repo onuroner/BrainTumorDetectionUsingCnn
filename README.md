@@ -1,1 +1,1 @@
-# BranTumorDetectionUsingCnn
+# BrainTumorDetectionUsingCnn
